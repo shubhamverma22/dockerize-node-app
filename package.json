@@ -1,0 +1,22 @@
+{
+  "name": "dockerize-node-app",
+  "version": "1.0.0",
+  "description": "Dockerize node js application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/shubhamverma22/dockerize-node-app.git"
+  },
+  "author": "Shubham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubhamverma22/dockerize-node-app/issues"
+  },
+  "homepage": "https://github.com/shubhamverma22/dockerize-node-app#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
