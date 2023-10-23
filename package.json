@@ -2,8 +2,9 @@
   "name": "dockerize-node-app",
   "version": "1.0.0",
   "description": "Dockerize node js application",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
+    "start": "node main.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
